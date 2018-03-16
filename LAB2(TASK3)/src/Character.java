@@ -38,7 +38,7 @@ public class Character {
 			case ('C'):
 			case ('c'):
 				firstLine +="`¶¶¶¶`" ;
-	    		secondLine += "¶¶``¶¶`" ;
+	    		secondLine += "¶¶``¶¶" ;
 	    		thirdLine +="¶¶````" ;
 	    		fourthLine +="¶¶``¶¶";
 	    		fifthLine +="`¶¶¶¶`";
